@@ -6,5 +6,5 @@ This is an offline-ready local demo of the batch prediction + context caching pi
 
 ```bash
 poetry install
-poetry run python src/pipeline.py
+poetry run python src
 ```
