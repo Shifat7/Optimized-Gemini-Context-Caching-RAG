@@ -17,7 +17,7 @@ This is an offline-ready local demo of the batch prediction + context caching pi
 **Error Handling:** Implement robust error handling to gracefully handle API errors, network issues, and invalid inputs.
 
 
-A work in progress code implementation from the submitted [proposal](gsoc proposal.pdf)
+A work in progress code implementation from the submitted [proposal](https://github.com/Shifat7/Efficient-Batch-Processed-Q-A-with-Gemini-Context-Caching-RAG/blob/main/gsoc%20proposal.pdf)
 
 ## How to Run
 
