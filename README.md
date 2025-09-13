@@ -1,6 +1,6 @@
 # Optimized-Gemini-Context-Caching-RAG
 
-This is an offline-ready local demo of the batch prediction + context caching pipeline from the GSoC DeepMind Challenge [Q4](https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad#4-batch-prediction-with-long-context-and-context-caching-code-sample):
+This is an offline-only local demo of batch prediction + context caching pipeline from the GSoC DeepMind Challenge [Q4](https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad#4-batch-prediction-with-long-context-and-context-caching-code-sample):
 
 ##### This repo demonstrates batch prediction with Gemini APIs, leveraging long context and context caching for efficiently answering questions about a single video. It addresses a common use case of extracting information from large content sources.
 
